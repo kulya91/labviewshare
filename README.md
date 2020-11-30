@@ -1,0 +1,2 @@
+# labviewshare
+利用共享变量实现32位labview调用64dll
