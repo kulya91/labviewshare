@@ -11,4 +11,12 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!""01!!!"E!A!!!!!!#!!V!"A!(4H6N:8*J9Q!=1%!!!@````]!!!^"=H*B?3"P:C"637ZU-49!!1!"!!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="img" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#&gt;G1!!!"E!A!!!!!!#!#!!.`````]!"2E!A!!!!!!"!!1!!!!"!!!!!!!!!!!!/%"Q!"U*35V"55FN97&gt;F!!%!!!F*45&amp;237VB:W5:!)!!!!!!!1!%!!!!!1!!!!!!!!6*&lt;7&amp;H:1!"!!%!!!!!!!!!#GZJ&gt;GFT=X:D,CI!!!!44&amp;:@37VB:W6%6%.M98.T37ZG&lt;Q!!!!%!!!!!!!!!!!!!!!!</Property>
+	</Item>
 </Library>
